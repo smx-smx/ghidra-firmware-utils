@@ -7,7 +7,7 @@ on:
 
 env:
   GHIDRA_VERSION: 10.2.1
-  GHIDRA_DATE: 20221101
+  GHIDRA_DATE: 20221115
 
 jobs:
   build-macos:
